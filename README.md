@@ -58,4 +58,9 @@ Becoming a Cloud DevOps Engineer as a tech newbie is an exciting journey that in
    - Apply your knowledge to real-world projects or contribute to open-source projects.
    - Experiment with building and deploying applications in the cloud.
 
+**16. Continuous Learning:**
+   - DevSecOps (security)
+
 Remember that the DevOps field is vast, and you can specialize in specific areas like DevSecOps (security), Cloud-Native DevOps, or Serverless DevOps based on your interests and career goals. Continuous learning and adaptability are key to a successful career in Cloud DevOps engineering. Good luck on your journey!
+
+
